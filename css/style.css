@@ -1,0 +1,86 @@
+.piano {
+    margin: 110px auto;
+    position: relative;
+    width: 600px;
+}
+
+img {
+    width: 100%;
+}
+
+.btn {
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    width: 40px;
+    color: #555;
+    cursor: pointer;
+    border: #8d8d8d solid 2px;
+    text-shadow: 0 0.5px 1px #777, 0 2px 6px #f2f2f2;
+    border-radius: 10px;
+    background: linear-gradient(#f9f9f9, #c0c0c0);
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#KeyA {
+    bottom: 30px;
+    left: 21px;
+}
+
+#KeyW {
+    top: -55px;
+    left: 55px;
+}
+
+#KeyS {
+    bottom: 30px;
+    left: 105px;
+}
+
+#KeyE {
+    top: -55px;
+    left: 155px;
+}
+
+#KeyD {
+    bottom: 30px;
+    left: 192px;
+}
+
+#KeyF {
+    bottom: 30px;
+    left: 277px;
+}
+
+#KeyT {
+    top: -55px;
+    left: 307px;
+}
+
+#KeyG {
+    bottom: 30px;
+    left: 362px;
+}
+
+#KeyY {
+    top: -55px;
+    left: 405px;
+}
+
+#KeyH {
+    bottom: 30px;
+    left: 447px;
+}
+
+#KeyU {
+    top: -55px;
+    left: 505px;
+}
+
+#KeyJ {
+    bottom: 30px;
+    left: 532px;
+}
